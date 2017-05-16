@@ -1,0 +1,1 @@
+export const ROLL_CHARACTER = 'ROLL_CHARACTER';
